@@ -11,7 +11,7 @@
 	</parent>
 
 	<artifactId>test-lib</artifactId>
-	<version>0.3.2-16-SNAPSHOT</version>
+	<version>0.3.4-21-SNAPSHOT</version>
 	<name>test-lib</name>
 	<description>Test Library containing test utilities</description>
 
